@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="PREF_NOTIFY_ABOUT_CHANGES" value="true" />
+    <long name="PREF_DOWNLOAD_MAX_FILE_SIZE" value="999999999999" />
+    <boolean name="PREF_LOCAL_FS_MONITOR_FOREGROUND" value="true" />
+    <boolean name="PREF_AUTOSYNC_ROAMING_3G" value="false" />
+    <long name="PREF_AUTOSYNC_BATTERY_MIN" value="50" />
+    <long name="PREF_SETTINGS_PASSCODE_TIMEOUT" value="30000" />
+    <boolean name="PREF_UPLOAD_SKIP_HIDDEN" value="false" />
+    <string name="PREF_AUTOSYNC_NETWORKS">wifi</string>
+    <long name="PREF_FIRST_INSTALLED_AT" value="1564537846785" />
+    <boolean name="PREF_AUTOSYNC_ENABLED" value="false" />
+    <long name="PREF_LAST_UPDATED_AT" value="1564537846785" />
+    <boolean name="PREF_NOTIFY_ABOUT_SYNC_ERRORS" value="true" />
+    <string name="PREF_SYNC_FOLDERS">[{&quot;id&quot;:564744903,&quot;localFolder&quot;:&quot;/storage/emulated/0/DriveSync&quot;,&quot;remoteAccountType&quot;:&quot;GoogleDrive&quot;,&quot;remoteAccountId&quot;:&quot;manluzyee@gmail.com&quot;,&quot;remoteFolder&quot;:&quot;/DriveSyncFiles&quot;,&quot;syncMethod&quot;:0,&quot;waitBeforeDelete&quot;:0,&quot;excludeSubdirs&quot;:false,&quot;deleteEmptySubdirs&quot;:true,&quot;includeNamePatterns&quot;:&quot;&quot;,&quot;excludeNamePatterns&quot;:&quot;&quot;,&quot;enabled&quot;:true}]</string>
+    <string name="PREF_REMOTE_ACCOUNTS">[{&quot;accountType&quot;:&quot;GoogleDrive&quot;,&quot;accountId&quot;:&quot;manluzyee@gmail.com&quot;,&quot;userEmail&quot;:&quot;manluzyee@gmail.com&quot;,&quot;userName&quot;:&quot;Manluzyee Hoiching&quot;,&quot;totalQuota&quot;:16106127360,&quot;usedQuota&quot;:10055280576}]</string>
+    <int name="PREF_INSTALLED_VERSION_CODE" value="9070673" />
+    <boolean name="PREF_AUTOSYNC_INSTANT_UPLOAD_ENABLED" value="true" />
+    <boolean name="PREF_FIRST_TIME" value="false" />
+    <long name="PREF_UPLOAD_MAX_FILE_SIZE" value="10485760" />
+    <boolean name="PREF_FINGERPRINT_UNLOCK" value="false" />
+    <string name="PREF_LANGUAGE"></string>
+    <boolean name="PREF_AUTOSYNC_MOBILE_2G" value="false" />
+    <long name="PREF_AUTOSYNC_INTERVAL" value="3600000" />
+    <string name="PREF_UI_THEME">light</string>
+    <long name="PREF_SYNC_LOG_MAX_AGE" value="604800000" />
+    <boolean name="PREF_NOTIFY_PROGRESS" value="true" />
+    <long name="PREF_AUTOSYNC_RETRY_INTERVAL" value="600000" />
+    <boolean name="PREF_PROTECT_SETTINGS" value="false" />
+    <boolean name="PREF_ONLY_PROTECT_APP_SETTINGS" value="false" />
+    <boolean name="PREF_SMART_CHANGE_DETECTION" value="false" />
+    <boolean name="PREF_MANUAL_SYNC_WARN_3G" value="true" />
+    <string name="PREF_AUTOSYNC_POWER_SOURCES">any</string>
+</map>
